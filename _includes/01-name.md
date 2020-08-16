@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+Jack Menendez
+# Trying to learn something here
